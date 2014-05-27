@@ -30,10 +30,3 @@ Sedih ya ??? yaiyalah…
 Kalo orang stress, pelariannya ke ibadah.. mantep ! Kalo pelariannya ke bermiditasi..keren !
 
 Kalau pelariannya ke hang out bersama teman- teman atau kalau yang perempuan shooping ? Masih okelah. Lah kalau sebuah pelarian haruslah ke pornografi misalkan langsung ke warnet dan langsung searching pretty ukrainian girl ??? yalkkk!
-* OKSITOSIN*
-
-Anda tahu kenapa seorang ibu dengan anak – anaknya ada ikatan batin ? Karena hormon oksitosinlah jawabannya.
-
-Saat seorang ibu melahirkan, hormon oksitisoin terpancar banjir keluar dari tubuhnya. Nah efeknya adalah, dia mencintai sesuatu yang membuat orang tersebut mengeluarkan hormon oksitosin itu ! Karena si ibu itu jadi keluar hormon oksitosinnya, gara – gara anak yang dilahirkannya tersebut ! Maka dia akan jadi punya ikatan batin dengan anak tersebut ! Itulah sistem kerjanya si hormon okitosin.
-
-Pornografi itu membuat hormon oksitosin bekerja secara terus menerus pada saat si orang tersebut mengakses pornografi. Sudah tahu kan akibatnya jadi seperti apa ? Dia menjadi terikat secara batin dengan pornografi tersebut. Makanya yang kecanduan pornografi itu, ada rasa kangen, jika tidak melihat pornografi selama beberapa hari. Jyaaaalllk cuih ! terikat batin dengan pornografi !
