@@ -71,4 +71,35 @@ Nama: Edy Dermawan
 
 
 
-...
+28/5 
+Daily Scrum
+(Nama Anggota 1):
+Nama: Tegar Mario
+	NIM : 121113428
+1.Semalam saya : mengerjakan tugas masing-masing,mencari bahan dan mengepush ke git
+2.Hari ini saya : Mengerjakan dan mencari lanjutan sumber bahan refrensi mengenai project yang akan team kerjakan,mencoba membuat slide dalam bispoke.js, dan mempush log book ke git
+3.Saya ada kendala di masalah dalam penulisan format bispoke
+
+
+(Nama Anggota 2):
+Nama: Alfi Rahmatsyah
+	NIM : 121113541
+1.Semalam saya : Mencari bahan tentang dampak pornografi
+2.Hari ini saya : mencari lanjutan bahan dan membuat presentasi di bispoke.js
+3.Saya ada kendala di mendesign penulisan format bispoke
+
+(Nama Anggota 3):
+Nama: Edy Dermawan
+	NIM : 121113827
+1. Semalam saya :mengerjakan tugas masing-masing,mencari bahan dan mengepush ke git.
+2. Hari ini saya : mencari lanjutan bahan dan membuat presentasi di bispoke.js
+3. Saya ada kendala di mendesign penulisan format bispoke
+
+(Nama Anggota 4):
+Nama: Martua Marianto Sihombing
+	NIM : 121111265
+1. Semalam saya :mengerjakan tugas masing-masing,mencari bahan dan mengepush ke git.
+2. Hari ini saya : mencari lanjutan bahan dan membuat presentasi di bispoke.js
+3. Saya ada kendala di mendesign penulisan format bispoke
+
+
