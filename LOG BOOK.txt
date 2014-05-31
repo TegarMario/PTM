@@ -208,3 +208,33 @@ NIM : 121111265
 1. Semalam saya : Mencari bahan untuk mendukung bahan yang telah lalu
 2. Hari ini saya : Mencari bahan, mengpush dan diskusi dengan teman kelompok. 
 3. Saya ada kendala pada push data kemarin karna hujan dan mati lampu
+
+31/5
+Daily Scrum
+(Nama Anggota 1):
+Nama: Tegar Mario
+NIM : 121113428
+1.Semalam saya : Mencari bahan, ngepush slide presentasi dan diskusi dengan teman kelompok.
+2.Hari ini saya : Ngepush slide. 
+3.Tidak ada kendala.
+
+(Nama Anggota 2):
+Nama: Alfi Rahmatsyah
+NIM : 121113541
+1.Semalam saya : Ngepush slide, memastikan anggota saya telah bekerja dan diskusi dengan teman kelompok.
+2.Hari ini saya : Ngepush slide, memastikan anggota saya telah bekerja.
+3.Tidak ada kendala.
+
+(Nama Anggota 3):
+Nama: Edy Dermawan
+NIM : 121113827
+1. Semalam saya : Masih mencari tambahan bahan, mengepush slide dan diskusi dengan teman kelompok.
+2. Hari ini saya : Mengepush slide presentasi.
+3. Tidak ada kendala.
+
+(Nama Anggota 4):
+Nama: Martua Marianto Sihombing
+NIM : 121111265
+1. Semalam saya : Mencari bahan, mengpush dan diskusi dengan teman kelompok.
+2. Hari ini saya : Mencari bahan, mengpush slide.
+3. Tidak ada kendala.
