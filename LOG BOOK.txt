@@ -163,12 +163,12 @@ Nama : Tegar Mario
 Nim : 121113428
 
 Sprint 2:
-29/5 - 31/5
-Scrummaster:
 Nama: Alfi Rahmatsyah
 NIM : 121113541
 
 Sprint 3:
+1/06-3/06
+scrunmuster
 Nama: Edy Dermawan
 NIM : 121113827
 
@@ -179,62 +179,33 @@ NIM : 121111265
 
 Progress Harian (Diupdate tiap hari)
 ------------------------------------
-30/5
+1/06
 Daily Scrum
 (Nama Anggota 1):
 Nama: Tegar Mario
 NIM : 121113428
-1.Semalam saya : Masih mencari tambahan bahan mengenai project yang akan team kerjakan, dan ngepush bahannya.
+1.Semalam saya : Mencari bahan slide dan mengedit slide.
 2.Hari ini saya : Mencari bahan, ngepush slide presentasi dan diskusi dengan teman kelompok.
 3.Tidak ada kendala.
 
 (Nama Anggota 2):
 Nama: Alfi Rahmatsyah
 NIM : 121113541
-1.Semalam saya : Mengedit slide bespoke dan memastikan anggota saya telah bekerja. 
-2.Hari ini saya : Ngepush slide, memastikan anggota saya telah bekerja dan diskusi dengan teman kelompok.
+1.Semalam saya : Mengedit slide di presentasi.
+2.Hari ini saya : Ngepush slide tambahan.
 3.Tidak ada kendala.
 
 (Nama Anggota 3):
 Nama: Edy Dermawan
 NIM : 121113827
-1. Semalam saya : Mengepush slide
-2. Hari ini saya : Masih mencari tambahan bahan, mengepush slide dan diskusi dengan teman kelompok.
+1. Semalam saya : Mengepush slide .
+2. Hari ini saya : mengedit slide dan menjalankan tugas scrunmaster.
 3. Tidak ada kendala.
 
 (Nama Anggota 4):
 Nama: Martua Marianto Sihombing
 NIM : 121111265
-1. Semalam saya : Mencari bahan untuk mendukung bahan yang telah lalu
-2. Hari ini saya : Mencari bahan, mengpush dan diskusi dengan teman kelompok. 
-3. Saya ada kendala pada push data kemarin karna hujan dan mati lampu
+1. Semalam saya : Mencari bahan untuk slide.
+2. Hari ini saya : Mencari bahan, mengpush dan diskusi.
+3. Saya ada kendala pada push data kemarin karna hujan dan mati lampu.
 
-31/5
-Daily Scrum
-(Nama Anggota 1):
-Nama: Tegar Mario
-NIM : 121113428
-1.Semalam saya : Mencari bahan, ngepush slide presentasi dan diskusi dengan teman kelompok.
-2.Hari ini saya : Ngepush slide. 
-3.Tidak ada kendala.
-
-(Nama Anggota 2):
-Nama: Alfi Rahmatsyah
-NIM : 121113541
-1.Semalam saya : Ngepush slide, memastikan anggota saya telah bekerja dan diskusi dengan teman kelompok.
-2.Hari ini saya : Ngepush slide, memastikan anggota saya telah bekerja.
-3.Tidak ada kendala.
-
-(Nama Anggota 3):
-Nama: Edy Dermawan
-NIM : 121113827
-1. Semalam saya : Masih mencari tambahan bahan, mengepush slide dan diskusi dengan teman kelompok.
-2. Hari ini saya : Mengepush slide presentasi.
-3. Tidak ada kendala.
-
-(Nama Anggota 4):
-Nama: Martua Marianto Sihombing
-NIM : 121111265
-1. Semalam saya : Mencari bahan, mengpush dan diskusi dengan teman kelompok.
-2. Hari ini saya : Mencari bahan, mengpush slide.
-3. Tidak ada kendala.
