@@ -209,3 +209,32 @@ NIM : 121111265
 2. Hari ini saya : Mencari bahan, mengpush dan diskusi.
 3. Saya ada kendala pada push data kemarin karna hujan dan mati lampu.
 
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+2/06
+Daily Scrum
+(Nama Anggota 1):
+Nama: Tegar Mario
+NIM : 121113428
+1.Semalam saya : Mencari bahan slide.
+2.Hari ini saya : Ngepush slide presentasi.
+3.Tidak ada kendala.
+
+(Nama Anggota 2):
+Nama: Alfi Rahmatsyah
+NIM : 121113541
+1.Semalam saya : Mencari bahan dan memeriksa slide.
+2.Hari ini saya : Ngepush slide dan menambahkan bahan slide.
+3.Tidak ada kendala.
+
+(Nama Anggota 3):
+Nama: Edy Dermawan
+NIM : 121113827
+1. Semalam saya : Memeriksa git di internet dan slide.
+2. Hari ini saya : push , mengedit slide dan menjalankan tugas scrunmaster.
+3. Tidak ada kendala.
+
+(Nama Anggota 4):
+Nama: Martua Marianto Sihombing
+NIM : 121111265
+
