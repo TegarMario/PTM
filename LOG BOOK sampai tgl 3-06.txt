@@ -237,4 +237,39 @@ NIM : 121113827
 (Nama Anggota 4):
 Nama: Martua Marianto Sihombing
 NIM : 121111265
+1. Semalam saya : Mencari bahan untuk slide.
+2. Hari ini saya : Mencari bahan, mengpush dan diskusi.
+3. Saya ada kendala pada push.
+
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+3/06
+Daily Scrum
+(Nama Anggota 1):
+Nama: Tegar Mario
+NIM : 121113428
+1.Semalam saya : Mencari bahan slide serta mengepush slide tambahan.
+2.Hari ini saya : Ngepush slide presentasi dan berdiskusi.
+3.masalah ada pada penampilan slide.
+
+(Nama Anggota 2):
+Nama: Alfi Rahmatsyah
+NIM : 121113541
+1.Semalam saya : Mencari bahan dan mengepush bahan.
+2.Hari ini saya : Ngepush slide dan berdiskusi tentang masalah slide.
+3.slide tidak tampak di host.
+
+(Nama Anggota 3):
+Nama: Edy Dermawan
+NIM : 121113827
+1. Semalam saya : Memeriksa git di internet dan slide.
+2. Hari ini saya : push , mengedit slide dan menjalankan tugas scrunmaster dan berdiskusi.
+3. Slide tidak muncul di localhost
+
+(Nama Anggota 4):
+Nama: Martua Marianto Sihombing
+NIM : 121111265
+1. Semalam saya : Mencari bahan untuk slide, ngepush.
+2. Hari ini saya : Mencari bahan, mengpush dan diskusi.
+3. Tidak ada Kendala
 
