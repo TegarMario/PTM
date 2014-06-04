@@ -69,6 +69,12 @@ NIM : 121113827
 2. Hari ini saya : yang dikerjakan hari ini adalah mengerjakan tugas masing-masing,mencari bahan dan mengepush ke git.
 3. Saya ada kendala di masalah yang dihadapi dalam mengpush terjadi masalah sedikit..
 
+(Nama Anggota 4):
+Nama: Martua Marianto Sihombing
+NIM : 121111265
+1. Semalam saya :mengerjakan penginstallan github dan koneksi ke email,sekalian topik yang akan di kerjakan
+2. Hari ini saya : mencari bahan dan mempush ke github
+3. Saya ada kendala di masalah yang dihadapi dalam mengpush
 
 28/5 
 Daily Scrum
@@ -189,7 +195,7 @@ NIM : 121113428
 3.Tidak ada kendala.
 
 (Nama Anggota 2):
-Nama: Alfi Rahmatsyah
+ Nama: Alfi Rahmatsyah
 NIM : 121113541
 1.Semalam saya : Mengedit slide di presentasi.
 2.Hari ini saya : Ngepush slide tambahan.
@@ -273,3 +279,56 @@ NIM : 121111265
 2. Hari ini saya : Mencari bahan, mengpush dan diskusi.
 3. Tidak ada Kendala
 
+
+----------
+SPRINT
+------
+Sprint 1:
+Nama : Tegar Mario
+Nim : 121113428
+
+Sprint 2:
+Nama: Alfi Rahmatsyah
+NIM : 121113541
+
+Sprint 3:
+Nama: Edy Dermawan
+NIM : 121113827
+
+Sprint 4:
+4/06 - 6/06
+Scrum Master
+Nama: Martua Marianto Sihombing
+NIM : 121111265
+
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+4/06
+Daily Scrum
+(Nama Anggota 1):
+Nama: Tegar Mario
+NIM : 121113428
+1.Semalam saya : Ngepush slide presentasi dan berdiskusi.
+2.Hari ini saya : Mencari Tentang UU, dan mempush
+3.Tidak ada kendala
+
+(Nama Anggota 2):
+Nama: Alfi Rahmatsyah
+NIM : 121113541
+1.Semalam saya : Ngepush slide dan berdiskusi tentang masalah slide.
+2.Hari ini saya : Mencari Bahan dan berdiskusi
+3.Tidak ada kendala
+
+(Nama Anggota 3):
+Nama: Edy Dermawan
+NIM : 121113827
+1. Semalam saya : push ,dan memperbaiki slide presentasi
+2. Hari ini saya : Memastikan anggota saya bekerja dan mempush slide presentasi
+3. Tidak ada kendala
+
+(Nama Anggota 4):
+Nama: Martua Marianto Sihombing
+NIM : 121111265
+1. Semalam saya : Mencari lanjutan bahan dan membuat presentasi.
+2. Hari ini saya : Mencari bahan untuk mendukung bahan kemarin.
+3. Saya ada kendala di pembuatan presentasi di bespoke.
