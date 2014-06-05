@@ -6,7 +6,7 @@ Judul Topik: Dampak Mengerikan Dibalik Pornografi
 Alamat Github: TegarMario
 Alamat Trello: TegarMario
 Anggota 1: 
-Nama: Tegar Mario
+Nama: Tegar Mario   
 NIM : 121113428
 Anggota 2:
 Nama: Alfi Rahmatsyah
@@ -330,5 +330,37 @@ NIM : 121113827
 Nama: Martua Marianto Sihombing
 NIM : 121111265
 1. Semalam saya : Mencari lanjutan bahan dan membuat presentasi.
-2. Hari ini saya : Mencari bahan untuk mendukung bahan kemarin.
-3. Saya ada kendala di pembuatan presentasi di bespoke.
+2. Hari ini saya : Memastikan Tim Saya bekerja dengan baik dan mencari informasi
+3. Tidak ada kendala
+
+---------------
+06/6 
+Daily Scrum
+(Nama Anggota 1):
+Nama: Tegar Mario
+NIM : 121113428
+1.Semalam saya : Mencari UU Pornografi
+2.Hari ini saya : Mengerjakan dan mencari foto tentang pornografi
+3.Tidak ada kendala 
+
+
+(Nama Anggota 2):
+Nama: Alfi Rahmatsyah
+NIM : 121113541
+1.Semalam saya : Menambahkan informasi ke github
+2.Hari ini saya : Mencari video tentang pornografi
+3.tidak ada kendala
+
+(Nama Anggota 3):
+Nama: Edy Dermawan
+NIM : 121113827
+1. Semalam saya : Memperbaiki slide dan mempush
+2. Hari ini saya : yang dikerjakan hari ini adalah pencarian informasi
+3. Tidak ada kendala
+
+(Nama Anggota 4):
+Nama: Martua Marianto Sihombing
+NIM : 121111265
+1. Semalam saya :mencari UU pornografi
+2. Hari ini saya : memperbaiki slide dan mengpush beberapa informasi serta logbook kelompok
+3. Tidak ada kendala
