@@ -397,3 +397,35 @@ NIM : 121111265
 2. Hari ini saya : melakukan penyempurnaan bahan presentasi
 3. Tidak ada kendala
 
+-------------
+----------------
+06/6 
+Daily Scrum
+(Nama Anggota 1):
+Nama: Tegar Mario
+NIM : 121113428
+1.Semalam saya : Melakukan finishing slide
+2.Hari ini saya : Menngpush slide
+3.Tidak ada kendala 
+
+
+(Nama Anggota 2):
+Nama: Alfi Rahmatsyah
+NIM : 121113541
+1.Semalam saya : Memperbaiki slide bespoke
+2.Hari ini saya : Desain bespoke
+3.tidak ada kendala
+
+(Nama Anggota 3):
+Nama: Edy Dermawan
+NIM : 121113827
+1. Semalam saya : Memperbaiki slide dan mempush
+2. Hari ini saya : Menambah sedikit informasi dan mengpush
+3. Tidak ada kendala
+
+(Nama Anggota 4):
+Nama: Martua Marianto Sihombing
+NIM : 121111265
+1. Semalam saya :melakukan penyempurnaan bahan presentasi
+2. Hari ini saya : Desain Slide
+3. Tidak ada kendala
