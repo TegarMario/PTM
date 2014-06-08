@@ -399,7 +399,7 @@ NIM : 121111265
 
 -------------
 ----------------
-06/6 
+07/6 
 Daily Scrum
 (Nama Anggota 1):
 Nama: Tegar Mario
